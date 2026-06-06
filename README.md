@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img src="assets/AppIconSource.png" width="128" height="128" alt="Happy Workdog 小狗图标">
+  <img src="assets/readme-workdog-avatar.png" width="128" height="128" alt="Happy Workdog 桌面小狗">
   <h1>Happy Workdog</h1>
   <p><strong>一只常驻 macOS 桌面的工作陪伴小狗</strong></p>
   <p>提醒、番茄钟、剪贴板历史、区域截图、常用入口和快捷键，轻量地帮你维持工作节奏。</p>
