@@ -1,12 +1,30 @@
-# Happy Workdog
+<div align="center">
+  <br>
+  <img src="assets/AppIconSource.png" width="128" height="128" alt="Happy Workdog 小狗图标">
+  <h1>Happy Workdog</h1>
+  <p><strong>一只常驻 macOS 桌面的工作陪伴小狗</strong></p>
+  <p>提醒、番茄钟、剪贴板历史、区域截图、常用入口和快捷键，轻量地帮你维持工作节奏。</p>
+  <p>
+    <img alt="Version" src="https://img.shields.io/badge/version-0.1.1-2f80ed?style=flat-square">
+    <img alt="Platform" src="https://img.shields.io/badge/macOS-13%2B-111827?style=flat-square">
+    <img alt="Built with SwiftUI and AppKit" src="https://img.shields.io/badge/SwiftUI%20%2B%20AppKit-native-f97316?style=flat-square">
+    <img alt="Privacy" src="https://img.shields.io/badge/data-local-22c55e?style=flat-square">
+  </p>
+  <p>
+    <a href="#截图">截图</a>
+    ·
+    <a href="#功能">功能</a>
+    ·
+    <a href="#下载和安装">下载</a>
+    ·
+    <a href="#开发运行">开发</a>
+    ·
+    <a href="#隐私说明">隐私</a>
+  </p>
+  <p>作者：罗码视界</p>
+</div>
 
-Happy Workdog 是一个 macOS 桌面陪伴小狗。它常驻桌面和菜单栏，提供提醒、番茄钟、剪贴板历史、区域截图、常用入口和快捷键，适合工作时放在屏幕边上，轻量地帮你维持节奏。
-
-当前版本：`0.1.1`
-
-支持平台：macOS 13+
-
-作者：罗码视界
+<br>
 
 ## 截图
 
