@@ -1,0 +1,16 @@
+.DS_Store
+/.build
+/build
+/Packages
+xcuserdata/
+DerivedData/
+.swiftpm/configuration/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.netrc
+.claude/
+/assets/AppIcon.iconset
+
+# Local code-signing material — never commit private keys
+/codesign/key.pem
+/codesign/hwd-codesign.p12
+*.p12

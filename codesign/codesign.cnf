@@ -1,0 +1,13 @@
+[ req ]
+distinguished_name = req_dn
+prompt = no
+x509_extensions = codesign_ext
+
+[ req_dn ]
+CN = Happy Workdog Self-Signed
+
+[ codesign_ext ]
+keyUsage = critical, digitalSignature
+extendedKeyUsage = critical, codeSigning
+basicConstraints = critical, CA:false
+subjectKeyIdentifier = hash
