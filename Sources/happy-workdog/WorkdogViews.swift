@@ -2914,7 +2914,7 @@ struct SettingsView: View {
                             .fixedSize(horizontal: false, vertical: true)
 
                         HStack(spacing: 8) {
-                            statusPill(title: "版本 0.1.0", symbol: "tag.fill", tint: SettingsSection.about.tint)
+                            statusPill(title: "版本 0.1.1", symbol: "tag.fill", tint: SettingsSection.about.tint)
                             statusPill(title: "SwiftUI + AppKit", symbol: "hammer.fill", tint: Color(red: 0.38, green: 0.56, blue: 0.42))
                         }
                     }
@@ -2938,6 +2938,13 @@ struct SettingsView: View {
                                 .font(.system(size: 12, weight: .medium))
                                 .foregroundStyle(.secondary)
                                 .fixedSize(horizontal: false, vertical: true)
+                            Link(destination: URL(string: "https://github.com/LeroyPine/happy-workdog")!) {
+                                Label("github.com/LeroyPine/happy-workdog", systemImage: "link")
+                                    .font(.system(size: 12, weight: .semibold))
+                            }
+                            .buttonStyle(.plain)
+                            .foregroundStyle(SettingsSection.about.tint)
+                            .padding(.top, 4)
                         }
 
                         Spacer(minLength: 0)
